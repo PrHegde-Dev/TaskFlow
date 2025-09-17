@@ -1,5 +1,5 @@
 documentation = """
-# Checklist Application Documentation
+# TaskFlow
 
 This document explains how to use the simple command-line checklist application.
 

@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Checklist data file
+checklist.json
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/

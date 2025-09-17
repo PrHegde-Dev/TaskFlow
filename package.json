@@ -1,0 +1,10 @@
+{
+    "name": "taskflow",
+    "version": "1.0.0",
+    "description": "A beautiful, responsive task management web application",
+    "author": "Pratham Prashant Hegde <hegdepratham134@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
+  
